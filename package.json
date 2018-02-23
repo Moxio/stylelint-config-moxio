@@ -1,7 +1,7 @@
 {
   "name": "stylelint-moxio-config",
   "version": "1.0",
-  "dependencies": {}
+  "dependencies": {},
   "main": "index.js",
   "files": [
     "index.js"
