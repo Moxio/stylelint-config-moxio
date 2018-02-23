@@ -1,7 +1,6 @@
 {
   "name": "stylelint-moxio-config",
   "version": "1.0.0",
-  "dependencies": {},
   "main": "index.js",
   "files": [
     "index.js"
@@ -10,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/dennis-c/stylelint-moxio-config.git"
   },
-  "devDependencies": {
+  "dependencies": {
     "stylelint": "^9.0.0"
   }
 }
