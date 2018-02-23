@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dennis-c/stylelint-moxio-config.git"
-  }
+  },
   "devDependencies": {
     "stylelint": "^9.0.0"
   }
