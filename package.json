@@ -1,15 +1,15 @@
 {
-  "name": "stylelint-moxio-config",
-  "version": "1.0.0",
-  "main": "index.js",
-  "files": [
-    "index.js"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dennis-c/stylelint-moxio-config.git"
-  },
-  "dependencies": {
-    "stylelint": "^9.0.0"
-  }
+	"name": "stylelint-config-moxio",
+	"version": "1.0.0",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Moxio/stylelint-config-moxio.git"
+	},
+	"dependencies": {
+		"stylelint": "^9.0.0"
+	}
 }

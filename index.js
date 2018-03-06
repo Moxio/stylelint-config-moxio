@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 module.exports = {
 	"rules": {
@@ -72,4 +72,4 @@ module.exports = {
 		"value-list-comma-space-after": "always",
 		"value-list-comma-space-before": "never"
 	}
-}
+};
