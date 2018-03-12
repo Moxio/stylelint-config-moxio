@@ -5,9 +5,7 @@ module.exports = {
 		"stylelint-selector-tag-no-without-class"
 	],
 	"rules": {
-		"plugin/selector-tag-no-without-class": [ true, {
-			"tags": ["div", "span"]
-		}],
+		"plugin/selector-tag-no-without-class": ["div", "span"],
 		"at-rule-name-case": "lower",
 		"at-rule-name-space-after": "always-single-line",
 		"at-rule-no-unknown": true,
