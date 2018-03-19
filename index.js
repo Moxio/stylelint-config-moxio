@@ -76,6 +76,9 @@ module.exports = {
 		"value-list-comma-newline-after": "never-multi-line",
 		"value-list-comma-newline-before": "never-multi-line",
 		"value-list-comma-space-after": "always",
-		"value-list-comma-space-before": "never"
+		"value-list-comma-space-before": "never",
+		"declaration-property-value-whitelist": {
+			"flex": ["/^\\S+\\s+\\S+\\s+\\S+$/"]
+		}
 	}
 };
