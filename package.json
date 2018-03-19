@@ -1,6 +1,6 @@
 {
 	"name": "stylelint-config-moxio",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "index.js",
 	"files": [
 		"index.js"
@@ -11,6 +11,6 @@
 	},
 	"dependencies": {
 		"stylelint": "^9.0.0",
-		"stylelint-selector-tag-no-without-class": "^0.1.0"
+		"stylelint-selector-tag-no-without-class": "^2.0.0"
 	}
 }
