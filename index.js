@@ -21,7 +21,14 @@ module.exports = {
 		"color-no-invalid-hex": true,
 		"comment-no-empty": true,
 		"comment-whitespace-inside": "always",
-		"declaration-block-no-duplicate-properties": true,
+		"declaration-block-no-duplicate-properties": [
+			true,
+			{
+				"ignore": [
+					"consecutive-duplicates-with-different-values"
+				]
+			}
+		],
 		"declaration-block-no-shorthand-property-overrides": true,
 		"declaration-block-semicolon-newline-after": "always-multi-line",
 		"declaration-block-semicolon-newline-before": "never-multi-line",
