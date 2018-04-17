@@ -84,6 +84,7 @@ module.exports = {
 		"value-list-comma-space-before": "never",
 		"declaration-property-value-whitelist": {
 			"flex": ["/^\\S+\\s+\\S+\\s+\\S+$/"]
-		}
+		},
+		"indentation": "tab"
 	}
 };
