@@ -10,7 +10,7 @@
 		"url": "https://github.com/Moxio/stylelint-config-moxio.git"
 	},
 	"dependencies": {
-		"stylelint": "^9.0.0",
+		"stylelint": "^13.9.0",
 		"stylelint-selector-tag-no-without-class": "^2.0.0"
 	}
 }

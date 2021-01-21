@@ -82,7 +82,7 @@ module.exports = {
 		"value-list-comma-newline-before": "never-multi-line",
 		"value-list-comma-space-after": "always",
 		"value-list-comma-space-before": "never",
-		"declaration-property-value-whitelist": {
+		"declaration-property-value-allowed-list": {
 			"flex": ["/^\\S+\\s+\\S+\\s+\\S+$/"]
 		},
 		"indentation": "tab"
