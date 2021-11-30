@@ -86,5 +86,11 @@ module.exports = {
 			"flex": ["/^\\S+\\s+\\S+\\s+\\S+$/"]
 		},
 		"indentation": "tab"
-	}
+	},
+	"overrides": [
+		{
+			"files": [ "**/*.less" ],
+			"customSyntax": "postcss-less",
+		}
+	]
 };
