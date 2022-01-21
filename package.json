@@ -10,6 +10,7 @@
 		"url": "https://github.com/Moxio/stylelint-config-moxio.git"
 	},
 	"dependencies": {
+		"postcss": "^8.4.5",
 		"postcss-less": "^6.0.0",
 		"stylelint": "^14.1.0",
 		"stylelint-selector-tag-no-without-class": "^2.0.5"
