@@ -23,7 +23,7 @@ jobs:
                   node-version: 18
 
             - name: Install dependencies
-              run: npm ci
+              run: npm install
 
     publish:
         needs: build
@@ -41,7 +41,7 @@ jobs:
                   registry-url: https://registry.npmjs.org/
 
             - name: Install dependencies
-              run: npm ci
+              run: npm install
 
             - name: Set new version
               run: npm version --allow-same-version --no-git-tag-version ${{ github.event.release.tag_name }}
