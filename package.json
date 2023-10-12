@@ -13,6 +13,7 @@
 		"postcss": "^8.4.5",
 		"postcss-less": "^6.0.0",
 		"stylelint": "^15.10.0",
+		"stylelint-order": "^6.0.3",
 		"stylelint-selector-tag-no-without-class": "^2.0.5",
 		"stylelint-stylistic": "^0.4.3"
 	}

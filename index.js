@@ -3,9 +3,18 @@
 module.exports = {
 	"plugins": [
 		"stylelint-stylistic",
-		"stylelint-selector-tag-no-without-class"
+		"stylelint-selector-tag-no-without-class",
+		"stylelint-order",
 	],
 	"rules": {
+		"order/order": [
+			[
+				"less-mixins",
+			],
+			{
+				"unspecified": "bottom"
+			}
+		],
 		"plugin/selector-tag-no-without-class": ["div", "span"],
 		"stylistic/at-rule-name-case": "lower",
 		"stylistic/at-rule-name-space-after": "always-single-line",
