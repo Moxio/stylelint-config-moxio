@@ -10,11 +10,11 @@
 		"url": "https://github.com/Moxio/stylelint-config-moxio.git"
 	},
 	"dependencies": {
-		"@stylistic/stylelint-plugin": "^3.1.2",
+		"@stylistic/stylelint-plugin": "^5.1.0",
 		"postcss": "^8.4.5",
 		"postcss-less": "^6.0.0",
-		"stylelint": "^16.13.0",
-		"stylelint-order": "^6.0.3",
-		"stylelint-selector-tag-no-without-class": "^3.0.0"
+		"stylelint": "^17.8.0",
+		"stylelint-order": "^8.1.1",
+		"stylelint-selector-tag-no-without-class": "^4.0.0"
 	}
 }
